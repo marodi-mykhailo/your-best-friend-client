@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/your-best-friend-client/static/css/main.2296d1e3.chunk.css",
+    "main.js": "/your-best-friend-client/static/js/main.e4e5f508.chunk.js",
+    "main.js.map": "/your-best-friend-client/static/js/main.e4e5f508.chunk.js.map",
+    "runtime-main.js": "/your-best-friend-client/static/js/runtime-main.3f4ce0d3.js",
+    "runtime-main.js.map": "/your-best-friend-client/static/js/runtime-main.3f4ce0d3.js.map",
+    "static/js/2.ea6dcf5c.chunk.js": "/your-best-friend-client/static/js/2.ea6dcf5c.chunk.js",
+    "static/js/2.ea6dcf5c.chunk.js.map": "/your-best-friend-client/static/js/2.ea6dcf5c.chunk.js.map",
+    "static/js/3.6fa4cda2.chunk.js": "/your-best-friend-client/static/js/3.6fa4cda2.chunk.js",
+    "static/js/3.6fa4cda2.chunk.js.map": "/your-best-friend-client/static/js/3.6fa4cda2.chunk.js.map",
+    "index.html": "/your-best-friend-client/index.html",
+    "static/css/main.2296d1e3.chunk.css.map": "/your-best-friend-client/static/css/main.2296d1e3.chunk.css.map",
+    "static/js/2.ea6dcf5c.chunk.js.LICENSE.txt": "/your-best-friend-client/static/js/2.ea6dcf5c.chunk.js.LICENSE.txt",
+    "static/media/Dog.efedb074.svg": "/your-best-friend-client/static/media/Dog.efedb074.svg",
+    "static/media/LandingPage.module.css": "/your-best-friend-client/static/media/Lback.825bfe4e.svg",
+    "static/media/PolishLanguage.e3176029.svg": "/your-best-friend-client/static/media/PolishLanguage.e3176029.svg",
+    "static/media/UkraineLanguage.7c802943.svg": "/your-best-friend-client/static/media/UkraineLanguage.7c802943.svg",
+    "static/media/cat.7b764fb0.svg": "/your-best-friend-client/static/media/cat.7b764fb0.svg",
+    "static/media/graph.b21e0fad.svg": "/your-best-friend-client/static/media/graph.b21e0fad.svg",
+    "static/media/graph2.bc14f5a9.svg": "/your-best-friend-client/static/media/graph2.bc14f5a9.svg",
+    "static/media/hands.70fc6cee.svg": "/your-best-friend-client/static/media/hands.70fc6cee.svg",
+    "static/media/heart.9f5da6dd.svg": "/your-best-friend-client/static/media/heart.9f5da6dd.svg",
+    "static/media/people.5bdacff0.svg": "/your-best-friend-client/static/media/people.5bdacff0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f4ce0d3.js",
+    "static/js/2.ea6dcf5c.chunk.js",
+    "static/css/main.2296d1e3.chunk.css",
+    "static/js/main.e4e5f508.chunk.js"
+  ]
+}
