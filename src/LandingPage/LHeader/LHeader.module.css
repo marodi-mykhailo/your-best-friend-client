@@ -1,0 +1,45 @@
+.header {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.languageWrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+    max-width: 110px;
+    margin-left: auto;
+}
+
+.nav {
+    margin: 40px 0;
+    padding: 20px 0;
+    border-top: 1px solid #707070;
+    border-bottom: 1px solid #707070;
+}
+
+.ul {
+    position: relative;
+    width: 90%;
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.li {
+    list-style-type: none;
+    margin: 0;
+}
+
+.dog {
+    position: absolute;
+    z-index: 2;
+    background-image: url("../../assets/images/Lback.svg");
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
